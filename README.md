@@ -1,4 +1,4 @@
-![Picture Check Vehicle](./assets/Profil_Check_Vehicle.png)
+![Profile Check Vehicle](./assets/Profil_Check_Vehicle.png)
 
 Let's automate the vehicle identification with the Check Vehicle solution which is for us a better solution to remedy the problem of taxes for the movers.
 
@@ -8,6 +8,7 @@ This system utilizes cutting-edge image recognition technology to extract text f
 
 ## Architecture
 
-![Picture Check Vehicle](./assets/Architecture_Check_Vehicle.png)
+![Architecture Check Vehicle](./assets/Architecture_Check_Vehicle.png)
 
+![Data Flows Check Vehicle](./assets/Data_Flows.png)
 
