@@ -23,3 +23,29 @@ The system's powerful image recognition capabilities allow it to accurately extr
 
 Overall, the prototype check vehicle system is a powerful and innovative solution that can revolutionize the way we manage and track vehicle registration. It is fast, efficient, accurate and secure, making it the perfect choice for any organization looking to streamline their vehicle registration process.
 
+## Demostration
+
+- 
+- 
+- 
+
+## Technologies
+
+* Azure Cognitive Services (Computer Vision): Analyze images and extract data
+* Azure Blob Storag : store unstructured Data
+* Power platform
+  - Power Apps: Mange and automate Process
+  - Power BI: Visualising Data and forecasting with AI 
+  - Dataverse : for storing Data
+
+
+* [Explore Power Platform](https://powerplatform.microsoft.com/en-us/)
+* [Explore Power Apps](https://powerapps.microsoft.com/en-us/)
+* [Explore Power BI](https://powerbi.microsoft.com/en-us/)
+* [Explore AI Builder](https://learn.microsoft.com/en-us/ai-builder/overview)
+
+Visit [imaginecup.microsoft.com](https://imaginecup.microsoft.com/) to learn more!
+
+----
+
+Microsoft projects adopt the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/).
